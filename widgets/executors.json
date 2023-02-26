@@ -1,0 +1,1 @@
+[{"name":"Jenkins","type":"jenkins","url":"http://localhost:8080/","buildOrder":8,"buildName":"web-cors-test-2 #8","buildUrl":"http://localhost:8080/job/web-cors-test-2/8/","reportName":"AllureReport","reportUrl":"http://localhost:8080/job/web-cors-test-2/8/allure"}]
